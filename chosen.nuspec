@@ -15,7 +15,8 @@
     <tags>jquery plugins</tags>
   </metadata>
   <files>
-    <file src="chosen\chosen.css" target="content\Content\chosen.css" />
-    <file src="chosen\chosen-sprite.png" target="content\Content\chosen-sprite.png" />
+    <file src="public\chosen.css" target="content\Content\chosen.css" />
+    <file src="public\chosen-sprite.png" target="content\Content\chosen-sprite.png" />
+    <file src="public\chosen-sprite@2x.png" target="content\Content\chosen-sprite@2x.png" />
   </files>
 </package>

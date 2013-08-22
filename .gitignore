@@ -1,4 +1,9 @@
 .DS_Store
 node_modules
 .project
+dist/
+public/*.js
+public/*.min.css
+chosen.zip
 *.nupkg
+Thumbs.db

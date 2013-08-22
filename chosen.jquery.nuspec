@@ -19,7 +19,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="chosen\chosen.jquery.js" target="content\Scripts\chosen.jquery.js" />
-    <file src="chosen\chosen.jquery.min.js" target="content\Scripts\chosen.jquery.min.js" />
+    <file src="public\chosen.jquery.js" target="content\Scripts\chosen.jquery.js" />
+    <file src="public\chosen.jquery.min.js" target="content\Scripts\chosen.jquery.min.js" />
   </files>
 </package>
