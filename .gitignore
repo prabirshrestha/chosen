@@ -3,7 +3,10 @@ node_modules
 .project
 dist/
 public/*.js
-public/*.min.css
+public/*.css
 chosen.zip
 *.nupkg
 Thumbs.db
+.sass-cache
+.ruby-version
+.rbenv-gemsets
